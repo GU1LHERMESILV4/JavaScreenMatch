@@ -90,4 +90,4 @@ O projeto utiliza as seguintes dependências, gerenciadas pelo Maven:
     <version>2.8.9</version>
 </dependency>
 ```
-**Divirta-se explorando o mundo do cinema com o Java ScreenMatch!** 🎥
+## **Divirta-se explorando o mundo do cinema com o Java ScreenMatch!** 🎥
